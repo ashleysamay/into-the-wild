@@ -108,7 +108,7 @@
         ],
         "summary": "Finds Pets by status",
         "description": "Multiple status values can be provided with comma separated strings",
-        "operationId": "findPetsByStatus",
+        "operationId": "findPetsByStatus2",
         "parameters": [
           {
             "name": "status",
